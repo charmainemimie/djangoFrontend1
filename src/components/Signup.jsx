@@ -6,6 +6,7 @@ const Signup = () => {
     <div>
        
   <div className="px-4 mx-auto pt-10 max-w-7xl sm:px-6 lg:px-8">
+    <h1 className='pb-6 font-bold'>My Django Frontend</h1>
     <div className="relative max-w-md mx-auto lg:max-w-lg">
       <div className="absolute -inset-2">
         <div
